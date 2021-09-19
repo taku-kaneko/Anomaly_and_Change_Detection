@@ -1,1 +1,1 @@
-# Anomary_and_Change_Detection
+# Anomaly_and_Change_Detection
